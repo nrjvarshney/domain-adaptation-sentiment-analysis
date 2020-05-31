@@ -1,3 +1,5 @@
 # domain-adaptation-sentiment-analysis
 
-WIP
+Domain Adaptation for Sentiment Analysis task
+Source Domain: IMDB movie reviews
+Target Domain: Amazon Product reviews
